@@ -1,3 +1,3 @@
 # gag-example
 
-I'm adding a line
+I'm changing this line.
